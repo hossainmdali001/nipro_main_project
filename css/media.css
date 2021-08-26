@@ -1,0 +1,541 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header part  */
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-toggler i{
+    font-size: 18px;
+}
+.logo h3{
+    font-size: 20px;
+}
+.ddm[data-bs-popper] {
+    top: -8px;
+    left: 150px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+    border: none;
+  }
+.s_btn{
+    margin-left: 30px;
+}
+.s_input {
+    width: 140px;
+}
+.menu ul li a {
+    font-size: 12px;
+    padding: 7px 0px;
+}
+/* slider part  */
+.slider_overlay {
+    padding-top: 106px;
+    padding-bottom: 106px;
+}
+.slider_text h3{
+    font-size: 22px;
+    line-height: 24px;
+}
+.slider_text h1{
+    font-size: 27px;
+}
+ .slider_text p {
+        font-size: 15px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+  }
+  .slider_text a{
+      width: 150px;
+      padding: 8px 26px;
+      font-size: 14px;
+  }
+  .left_arrows{
+      width: 35px;
+      height: 35px;
+      font-size: 15px;
+      line-height: 35px;
+      bottom: -90px;
+  }
+  .right_arrows{
+      width: 35px;
+      height: 35px;
+      font-size: 15px;
+      line-height: 35px;
+      bottom: -90px;
+      margin-left: 15px;
+  }
+
+ /* service part  */
+ #service {
+    padding-bottom: 40px;
+}
+.header_text {
+    width: 2px;
+    height: 34px;
+}
+.s_h1 {
+    font-size: 20px;
+    padding-top: 19px;
+}
+.sss_text p {
+    line-height: 24px;
+    padding-top: 20px;
+}
+.service_item {
+    margin-top: 40px;
+}
+.s_icon i {
+    font-size: 54px;
+}
+.s_text h3 {
+    font-size: 16px;
+}
+/* about part  */
+#about {
+    padding-bottom: 40px;
+}
+.about_text h3 {
+    padding-top: 30px;
+    font-size: 25px;
+}
+.about_text p {
+    padding-top: 14px;
+    padding-bottom: 30px;
+}
+.about_text span {
+    padding-top: 22px !important;
+}
+.about_text a{
+    text-align: center !important;
+}
+.about_text a {
+    width: 160px;
+    font-size: 14px;
+    padding: 8px 16px;
+}
+/* portfolio part  */
+.portfolio_btn {
+    padding-top: 40px;
+}
+.portfolio_btn button {
+    font-size: 14px;
+    padding: 6px 8px;
+    margin-top: 10px;
+}
+.icons i {
+    font-size: 45px;
+}
+#portfolio {
+    padding-bottom: 40px;
+}
+.port_item {
+    padding-top: 31px;
+}
+/* chosse part  */
+#choose {
+    padding-bottom: 40px;
+}
+body {
+    text-align: center;
+}
+.choose_item {
+    margin-top: 35px;
+}
+
+/* work part  */
+#work{
+    padding-bottom: 40px;
+}
+.work_item {
+    margin-top: 35px;
+}
+.ppp ul li i {
+    padding: 8px;
+    font-size: 20px;
+}
+/* pic part  */
+.p_icon i {
+    font-size: 45px !important;
+}
+.pic_item {
+    margin-top: 34px;
+}
+.p_text h3 {
+    font-size: 16px;
+}
+/* footer part  */
+.footer_text p {
+    padding-top: 25px;
+}
+.ff_icon ul li a {
+    width: 30px;
+    height: 30px;
+}
+
+.ff_icon ul li a i {
+    font-size: 18px;
+    padding-top: 5px;
+}
+.width {
+    margin-top: 39px;
+}
+.foot_r_text {
+    padding-top: 30px;
+}
+.foot_r_text p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.o_s ul li {
+    padding-right: 3px;
+}
+.o_s ul li a{
+    font-size: 18px;
+}
+.o_s ul li a {
+    font-size: 16px;
+}
+
+}
+/* Small devices (landscape phones, 576px and up)  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header part  */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar{
+        padding: 20px;
+    }
+    .logo h3 {
+        font-size: 22px;
+    }
+    .navbar-toggler i{
+        font-size: 20px;
+    }
+    .menu ul li a {
+        font-size: 14px;
+        padding: 8px 0px;
+    }
+    /* .ddm[data-bs-popper] {
+        top: -8px;
+        left: 150px;
+        margin-top: 0;
+        padding: 10px 10px !important;
+        border: none;
+      }
+    .s_btn{
+        margin-left: 30px;
+    }
+    .s_input {
+        width: 140px;
+    } */
+/* ===================================== */
+
+.ddm[data-bs-popper] {
+    top: -5px;
+    left: 300px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+  }
+  .s_btn {
+    margin-left: -3px !important;
+  }
+  .ddm {
+    min-width: 200px;
+  }
+    
+/* slider part  */
+.slider_overlay {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.slider_text a{
+    width: 180px;
+    font-size: 15px;
+}
+.right_arrows{
+    bottom: -100px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.left_arrows{
+    bottom: -100px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.slider_text h1{
+    font-size: 35px;
+}
+.slider_text p{
+    font-size: 16px;
+}
+/* service part  */
+#service {
+    padding-bottom: 60px;
+}
+.header_text {
+    height: 40px;
+}
+.s_h1 {
+    font-size: 23px;
+    padding-top: 20px;
+}
+.sss_text p {
+    line-height: 22px;
+    padding-top: 22px;
+    font-size: 15px;
+}
+.service_item {
+    margin-top: 55px;
+}
+
+/* about part  */
+#about {
+    padding-bottom: 50px;
+}
+.about_text h3 {
+    padding-top: 30px;
+    font-size: 25px;
+}
+.about_text p {
+    padding-top: 14px;
+    padding-bottom: 30px;
+}
+.about_text span {
+    padding-top: 22px !important;
+}
+/* about part  */
+/* portfolio part  */
+#portfolio {
+    padding-bottom: 50px;
+}
+/* portfolio part  */
+.portfolio_btn {
+    padding-top: 30px;
+}
+.port_item {
+    padding-top: 40px;
+}
+/* choose part  */
+#choose{
+    padding-bottom: 50px;
+}
+body {
+    text-align: center;
+}
+.choose_item {
+    margin-top: 49px;
+}
+/* choose part  */
+/* work part start  */
+#work{
+    padding-bottom: 50px;
+}
+.work_item {
+    margin-top: 40px;
+}
+/* work part end */
+/* footer part  */
+#footer{
+    padding-bottom: 50px;
+}
+.width {
+    margin-top: 40px;
+}
+.ff_icon ul li a {
+    width: 35px;
+    height: 35px;
+}
+.ff_icon ul li a i {
+    font-size: 24px;
+    padding-top: 5px;
+}
+
+
+/* footer part  */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header part  */
+.navbar-nav{
+    text-align: center;
+}
+.navbar{
+    padding: 24px;
+}
+.navbar-toggler:focus {
+   
+    box-shadow: none;
+}
+.logo h3{
+    font-size: 25px;
+}
+.menu ul li a {
+    padding: 8px 0px;
+}
+
+.ddm[data-bs-popper] {
+    top: -5px;
+    left: 400px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+  }
+  .s_btn {
+    margin-left: -3px !important;
+  }
+  .ddm {
+    min-width: 200px;
+  }
+/* slider part  */
+.slider_overlay {
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.slider_text h1{
+    font-size: 40px;
+}
+.slider_text p{
+    font-size: 16px !important;
+    padding-top: 24px;
+    padding-bottom: 30px;
+}
+.right_arrows{
+    bottom: -127px;
+}
+.left_arrows{
+    bottom: -127px;
+}
+/* service part  */
+#service {
+    padding-bottom: 80px;
+}
+.service_item {
+    margin-top: 45px;
+    border: 1px solid #cccccc;
+    padding: 20px;
+}
+/* about  part  */
+#about {
+    padding-bottom: 80px;
+}
+.about_text p {
+    padding-top: 20px;
+}
+.about_text span {
+    padding-top: 15px !important;
+}
+.s_h1{
+    font-size: 26px;
+    padding-top: 25px;
+}
+.about_text a {
+    width: 190px;
+    padding: 8px 28px;
+    font-size: 15px;
+}
+.about_text p {
+    padding-top: 15px;
+}
+/* about  part  */
+/* portfolio part  */
+#portfolio {
+    padding-bottom: 80px;
+}
+.s_h1{
+    padding-top: 25px;
+    font-size: 26px;
+}
+.port_item{
+    padding-top: 30px;
+}
+.portfolio_btn{
+    padding-top: 40px;
+}
+.portfolio_text h3 {
+    font-size: 18px;
+    line-height: 18px;
+}
+/* choose part  */
+body {
+    text-align: center;
+}
+.choose_item {
+    margin-top: 47px;
+}
+/* work part  */
+#work {
+    padding-bottom: 80px;
+}
+/* work part  */
+    #work{
+        padding-bottom: 80px;
+    }
+    .s_h1{
+        padding-top: 25px;
+        font-size: 26px;
+    }
+    .work_item {
+        margin-top: 50px;
+    }
+    .work_text h3 {
+        font-size: 13px;
+    }
+    .work_text p {
+        padding-top: 15px;
+        font-size: 13px;
+    }
+    /* pic part  */
+    .pic_item {
+        margin-top: 30px !important;
+    }
+/* footer part  */
+#footer{
+padding-bottom: 80px;
+}
+.footer_text p {
+    padding-top: 29px;
+}
+.ff_icon {
+    margin-top: 29px;
+}
+.width {
+    margin-top: 50px;
+}
+.foot_btm_menu{
+    text-align: center;
+}
+/* footer part end  */
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    
+    
+    
+}
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
